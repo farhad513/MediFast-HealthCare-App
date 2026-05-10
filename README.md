@@ -18,11 +18,13 @@ A modern **patient-focused mobile application** built with React Native to provi
 
 <div align="center">
 
-<img src="./images/2.png" width="200" style="margin:5px; border-radius:10px;" />
-<img src="./images/3.png" width="200" style="margin:5px; border-radius:10px;" />
-<img src="./images/4.png" width="200" style="margin:5px; border-radius:10px;" />
-<img src="./images/5.png" width="200" style="margin:5px; border-radius:10px;" />
-<img src="./images/6.png" width="200" style="margin:5px; border-radius:10px;" />
+<img src="./images/2.jpg" width="200" style="margin:5px; border-radius:10px;" />
+<img src="./images/3.jpg" width="200" style="margin:5px; border-radius:10px;" />
+<img src="./images/4.jpg" width="200" style="margin:5px; border-radius:10px;" />
+<img src="./images/5.jpg" width="200" style="margin:5px; border-radius:10px;" />
+<img src="./images/6.jpg" width="200" style="margin:5px; border-radius:10px;" />
+<img src="./images/7.jpg" width="200" style="margin:5px; border-radius:10px;" />
+<img src="./images/8.jpg" width="200" style="margin:5px; border-radius:10px;" />
 
 </div>
 
